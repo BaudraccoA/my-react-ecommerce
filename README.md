@@ -47,9 +47,14 @@ Resolverlo utilizando manejo de estados.</p>
 <p>Al ser un maquetado, se deja en el componente "ProductDetail" el comentario para ingresar la lógica de compra, <br>
 se puede hacer a través de una API por ejemplo "Take Store" de prueba como un carrito de compras con 20 productos.</p>
 
-<h3>Imagen de como es el proyecto:</h3>
+<h3>Imagen de como es el proyecto en una primera instancia:</h3>
 
 ![Ejercicio clase 7](https://github.com/BaudraccoA/my-react-ecommerce/assets/105230509/5f30fecd-b409-4f75-84e0-4b83cfa3eae5)
+
+<h3>Se hacen correcciones y se acomoda mejor en pantalla agregando CSS y Bootstrap:</h3>
+
+![Ecommerce2](https://github.com/BaudraccoA/my-react-ecommerce/assets/105230509/bbb28292-26b6-4db5-aaaa-c85cfe633059)
+
 
 <h3>Demostración:</h3>
 
